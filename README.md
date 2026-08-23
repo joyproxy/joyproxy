@@ -47,6 +47,7 @@ Residential, mobile, business/ISP, and datacenter lines — rotating (pay-per-GB
 | [joyproxy-server](https://github.com/joyproxy/joyproxy-server) | https://www.joyproxy.com/products/proxy-server.html | Linux & Windows HTTP/SOCKS5 gateway |
 | [joyproxy-client-android](https://github.com/joyproxy/joyproxy-client-android) | https://www.joyproxy.com/products/android-client.html | Android per-app HTTP/SOCKS5 client |
 | [joyproxy-tester](https://github.com/joyproxy/joyproxy-tester) | https://www.joyproxy.com/products/tester.html | Desktop HTTP / SOCKS5 TCP / UDP tester |
+| [joyproxy-extension](https://github.com/joyproxy/joyproxy-extension) | https://github.com/joyproxy/joyproxy-extension | Chromium Manifest V3 browser proxy workbench |
 
 ---
 
@@ -90,6 +91,7 @@ Residential, mobile, business/ISP, and datacenter lines — rotating (pay-per-GB
 | [joyproxy-server](https://github.com/joyproxy/joyproxy-server) | https://www.joyproxy.com/products/proxy-server.html | Linux / Windows HTTP/SOCKS5 网关 |
 | [joyproxy-client-android](https://github.com/joyproxy/joyproxy-client-android) | https://www.joyproxy.com/products/android-client.html | Android 按应用 HTTP/SOCKS5 客户端 |
 | [joyproxy-tester](https://github.com/joyproxy/joyproxy-tester) | https://www.joyproxy.com/products/tester.html | 桌面 HTTP / SOCKS5 TCP / UDP 测试工具 |
+| [joyproxy-extension](https://github.com/joyproxy/joyproxy-extension) | https://github.com/joyproxy/joyproxy-extension | Chromium Manifest V3 浏览器代理工作台 |
 
 ---
 
@@ -133,3 +135,4 @@ Residential, mobile, business/ISP, and datacenter lines — rotating (pay-per-GB
 | [joyproxy-server](https://github.com/joyproxy/joyproxy-server) | https://www.joyproxy.com/products/proxy-server.html | Linux / Windows HTTP/SOCKS5 閘道 |
 | [joyproxy-client-android](https://github.com/joyproxy/joyproxy-client-android) | https://www.joyproxy.com/products/android-client.html | Android 依應用 HTTP/SOCKS5 用戶端 |
 | [joyproxy-tester](https://github.com/joyproxy/joyproxy-tester) | https://www.joyproxy.com/products/tester.html | 桌面 HTTP / SOCKS5 TCP / UDP 測試工具 |
+| [joyproxy-extension](https://github.com/joyproxy/joyproxy-extension) | https://github.com/joyproxy/joyproxy-extension | Chromium Manifest V3 瀏覽器代理工作台 |
