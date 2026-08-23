@@ -1,7 +1,7 @@
 # JoyProxy
 
 > **Official GitHub account for [JoyProxy](https://www.joyproxy.com)** — business-grade proxy IP and open-source tools.  
-> **Not affiliated** with the unrelated legacy Chrome extension [`sh0cked/joy-proxy`](https://github.com/sh0cked/joy-proxy).
+> Official Chromium extension: [joyproxy-extension](https://github.com/joyproxy/joyproxy-extension).
 
 [English](#english) | [简体中文](#简体中文) | [繁體中文](#繁體中文)
 
