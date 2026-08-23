@@ -1,7 +1,7 @@
 # JoyProxy
 
 > **Official GitHub account for [JoyProxy](https://www.joyproxy.com)** — business-grade proxy IP and open-source tools.  
-> Official Chromium extension: [joyproxy-extension](https://github.com/joyproxy/joyproxy-extension).
+> Official Chrome / Edge extension: [joyproxy-extension](https://github.com/joyproxy/joyproxy-extension).
 
 [English](#english) | [简体中文](#简体中文) | [繁體中文](#繁體中文)
 
@@ -47,7 +47,7 @@ Residential, mobile, business/ISP, and datacenter lines — rotating (pay-per-GB
 | [joyproxy-server](https://github.com/joyproxy/joyproxy-server) | https://www.joyproxy.com/products/proxy-server.html | Linux & Windows HTTP/SOCKS5 gateway |
 | [joyproxy-client-android](https://github.com/joyproxy/joyproxy-client-android) | https://www.joyproxy.com/products/android-client.html | Android per-app HTTP/SOCKS5 client |
 | [joyproxy-tester](https://github.com/joyproxy/joyproxy-tester) | https://www.joyproxy.com/products/tester.html | Desktop HTTP / SOCKS5 TCP / UDP tester |
-| [joyproxy-extension](https://github.com/joyproxy/joyproxy-extension) | https://github.com/joyproxy/joyproxy-extension | Chromium Manifest V3 browser proxy workbench |
+| [joyproxy-extension](https://github.com/joyproxy/joyproxy-extension) | https://github.com/joyproxy/joyproxy-extension | Chrome / Edge browser extension — test and apply proxies in this browser |
 
 ---
 
@@ -91,7 +91,7 @@ Residential, mobile, business/ISP, and datacenter lines — rotating (pay-per-GB
 | [joyproxy-server](https://github.com/joyproxy/joyproxy-server) | https://www.joyproxy.com/products/proxy-server.html | Linux / Windows HTTP/SOCKS5 网关 |
 | [joyproxy-client-android](https://github.com/joyproxy/joyproxy-client-android) | https://www.joyproxy.com/products/android-client.html | Android 按应用 HTTP/SOCKS5 客户端 |
 | [joyproxy-tester](https://github.com/joyproxy/joyproxy-tester) | https://www.joyproxy.com/products/tester.html | 桌面 HTTP / SOCKS5 TCP / UDP 测试工具 |
-| [joyproxy-extension](https://github.com/joyproxy/joyproxy-extension) | https://github.com/joyproxy/joyproxy-extension | Chromium Manifest V3 浏览器代理工作台 |
+| [joyproxy-extension](https://github.com/joyproxy/joyproxy-extension) | https://github.com/joyproxy/joyproxy-extension | Chrome / Edge 浏览器扩展，在当前浏览器里测试并切换代理 |
 
 ---
 
@@ -135,4 +135,4 @@ Residential, mobile, business/ISP, and datacenter lines — rotating (pay-per-GB
 | [joyproxy-server](https://github.com/joyproxy/joyproxy-server) | https://www.joyproxy.com/products/proxy-server.html | Linux / Windows HTTP/SOCKS5 閘道 |
 | [joyproxy-client-android](https://github.com/joyproxy/joyproxy-client-android) | https://www.joyproxy.com/products/android-client.html | Android 依應用 HTTP/SOCKS5 用戶端 |
 | [joyproxy-tester](https://github.com/joyproxy/joyproxy-tester) | https://www.joyproxy.com/products/tester.html | 桌面 HTTP / SOCKS5 TCP / UDP 測試工具 |
-| [joyproxy-extension](https://github.com/joyproxy/joyproxy-extension) | https://github.com/joyproxy/joyproxy-extension | Chromium Manifest V3 瀏覽器代理工作台 |
+| [joyproxy-extension](https://github.com/joyproxy/joyproxy-extension) | https://github.com/joyproxy/joyproxy-extension | Chrome / Edge 瀏覽器擴充功能，在目前瀏覽器裡測試並切換代理 |
