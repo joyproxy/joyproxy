@@ -1,6 +1,6 @@
 # JoyProxy
 
-> **Official GitHub account for [JoyProxy](https://www.joyproxy.com)** — business-grade proxy IP and open-source tools.  
+> **Official GitHub account for [JoyProxy](https://www.joyproxy.com)** — five cloud proxy lines, [Web Scraping API](https://www.joyproxy.com/products/web-unblocker.html), and open-source tools.  
 > Official Chrome / Edge extension: [joyproxy-extension](https://github.com/joyproxy/joyproxy-extension).
 
 [English](#english) | [简体中文](#简体中文) | [繁體中文](#繁體中文)
@@ -21,14 +21,15 @@
 
 ### Cloud proxy IP (paid)
 
-Residential, mobile, business/ISP, and datacenter lines — rotating (pay-per-GB), static dedicated IPs, and custom geo ports. New users receive **$5 free credit** after sign-up. USD pricing on pricing.html is authoritative.
+Residential, mobile, business, ISP (dedicated static residential), and datacenter proxies — rotating (pay-per-GB), static dedicated IPs, and custom geo ports. New users receive **$5 free credit** after sign-up. USD pricing on pricing.html is authoritative.
 
 | Product | Landing page |
 |---------|----------------|
-| Residential | https://www.joyproxy.com/products/proxy-residential.html |
-| Mobile 4G/5G | https://www.joyproxy.com/products/proxy-mobile.html |
-| Business / ISP | https://www.joyproxy.com/products/proxy-business.html |
-| Datacenter | https://www.joyproxy.com/products/proxy-datacenter.html |
+| Residential Proxies | https://www.joyproxy.com/products/proxy-residential.html |
+| Mobile Proxies | https://www.joyproxy.com/products/proxy-mobile.html |
+| Business Proxies | https://www.joyproxy.com/products/proxy-business.html |
+| ISP (Dedicated Static Residential) Proxies | https://www.joyproxy.com/products/proxy-isp.html |
+| Datacenter Proxies | https://www.joyproxy.com/products/proxy-datacenter.html |
 | Compare all lines | https://www.joyproxy.com/proxy-products.html |
 
 ### AI products
@@ -65,14 +66,15 @@ Residential, mobile, business/ISP, and datacenter lines — rotating (pay-per-GB
 
 ### 云端代理 IP（付费）
 
-住宅、移动、商业/ISP、数据中心四条产品线 — 动态（按 GB 预付）、静态独享 IP、自定义地理端口。新用户注册后可获 **$5 赠金**。权威美元定价以 pricing.html 为准。
+住宅、移动、商业、ISP（独享静态住宅）、数据中心五条代理产品线，另提供网页抓取 API — 动态（按 GB 预付）、静态独享 IP、自定义地理端口。新用户注册后可获 **$5 赠金**。权威美元定价以 pricing.html 为准。
 
 | 产品 | 落地页 |
 |------|--------|
 | 住宅代理 | https://www.joyproxy.com/products/proxy-residential.html |
-| 移动 4G/5G | https://www.joyproxy.com/products/proxy-mobile.html |
-| 商业 / ISP | https://www.joyproxy.com/products/proxy-business.html |
-| 数据中心 | https://www.joyproxy.com/products/proxy-datacenter.html |
+| 移动代理 | https://www.joyproxy.com/products/proxy-mobile.html |
+| 商业代理 | https://www.joyproxy.com/products/proxy-business.html |
+| ISP（独享静态住宅）代理 | https://www.joyproxy.com/products/proxy-isp.html |
+| 数据中心代理 | https://www.joyproxy.com/products/proxy-datacenter.html |
 | 对比全部线路 | https://www.joyproxy.com/proxy-products.html |
 
 ### AI 产品
@@ -109,14 +111,15 @@ Residential, mobile, business/ISP, and datacenter lines — rotating (pay-per-GB
 
 ### 雲端代理 IP（付費）
 
-住宅、移動、商業/ISP、資料中心四條產品線 — 動態（按 GB 預付）、靜態獨享 IP、自訂地理埠。新用戶註冊後可獲 **$5 贈金**。權威美元定價以 pricing.html 為準。
+住宅、移動、商業、ISP（獨享靜態住宅）、資料中心五條代理產品線，另提供網頁擷取 API — 動態（按 GB 預付）、靜態獨享 IP、自訂地理埠。新用戶註冊後可獲 **$5 贈金**。權威美元定價以 pricing.html 為準。
 
 | 產品 | 落地頁 |
 |------|--------|
 | 住宅代理 | https://www.joyproxy.com/products/proxy-residential.html |
-| 移動 4G/5G | https://www.joyproxy.com/products/proxy-mobile.html |
-| 商業 / ISP | https://www.joyproxy.com/products/proxy-business.html |
-| 資料中心 | https://www.joyproxy.com/products/proxy-datacenter.html |
+| 移動代理 | https://www.joyproxy.com/products/proxy-mobile.html |
+| 商業代理 | https://www.joyproxy.com/products/proxy-business.html |
+| ISP（獨享靜態住宅）代理 | https://www.joyproxy.com/products/proxy-isp.html |
+| 資料中心代理 | https://www.joyproxy.com/products/proxy-datacenter.html |
 | 對比全部線路 | https://www.joyproxy.com/proxy-products.html |
 
 ### AI 產品
